@@ -33,7 +33,7 @@ const teamMembers: TeamMember[] = [
     studentId: '92113774',
     department: '정보보호학과',
     introduction:
-      '1학기에 기초적인 웹 프로그래밍에 대해 배우고 2학기에 백엔드 프로그래밍과 Next.js 활용법에 대해 배우고 싶어  웹서버 보안 프로그래밍 과목을 수강하게 된 21학번 이지훈입니다. 웹 서버 보안 이외에도 리버스 엔지니어링 등에 관심을 갖고 있습니다',
+      '1학기에 기초적인 웹 프로그래밍에 대해 배우고 2학기에 백엔드 프로그래밍과 Next.js 활용법에 대해 배우고 싶어  웹서버 보안 프로그래밍 과목을 수강하게 된 21학번 이지훈입니다. 웹 서버 보안 이외에도 리버스 엔지니어링 등에 관심을 갖고 있습니다.',
     github: 'https://github.com/Hoodscp',
     vercel: 'https://Hoodscp.vercel.app',
     portpolio: 'https://portpolio.com',
